@@ -1,2 +1,2 @@
-![Sprachen die ich benutze](https://github-readme-stats.vercel.app/api/top-langs/?username=Huskthedev&layout=compact&theme=dark&hide=html,css,python,c,c++,shaderlab,hlsl,java)
-![Meine GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huskthedev&show_icons=true&theme=dark&hide=issues)
+![Sprachen die ich benutze](https://github-readme-stats.vercel.app/api/top-langs/?username=Huskthedev&layout=compact&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000&hide=html,css,python,c,c++,shaderlab,hlsl,java)
+![Meine GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huskthedev&show_icons=true&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000&hide=issues)
