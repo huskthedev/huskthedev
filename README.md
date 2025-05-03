@@ -21,4 +21,4 @@ I'm **HuskTheDev** — a passionate developer switching between **German** and *
 
 ### 📫 Contact & Links
 - Discord: `N3t5py`
-- [My Website (from a little project me and a friend are doing) ](http://Huskthedev.de)
+- [a little project me and a friend are doing](http://Huskthedev.de)
