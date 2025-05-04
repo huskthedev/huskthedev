@@ -21,5 +21,6 @@ I'm **HuskTheDev** — a passionate developer switching between **German** and *
 
 ### 📫 Contact & Links
 - Discord: `N3t5py`
+- [silly hangout server that i made](https://discord.gg/kn9WpBZg6D)
 - [a little project me and a friend are doing](http://Huskthedev.de)
 - My email Huskthedev@huskthedev.de
